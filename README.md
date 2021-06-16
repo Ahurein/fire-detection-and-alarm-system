@@ -1,7 +1,7 @@
 Fire Detection And Alarm System
 # About
 This repository holds the code for the fire detection and alarm system.
-#The code is in a file with a c++ extension which can be copied and pasted into a new arduino project
+The code is in a file with a c++ extension which can be copied and pasted into a new arduino project
 
 
 #instructions
